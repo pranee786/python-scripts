@@ -1,0 +1,15 @@
+import numpy as np
+
+a1 = np.array([1,2,3,4,-5])
+a2 = np.array([10,11,12,13,14])
+print(a1+a2)
+print(a1-2)
+print(np.sin(a1))
+print(np.cos(a1))
+print(np.log(a2))
+print(np.mean(a1))
+print(np.abs(a1))
+print(np.min(a1))
+print(np.sqrt(a2))
+print(np.sum(a1))
+print(np.exp(a1))
